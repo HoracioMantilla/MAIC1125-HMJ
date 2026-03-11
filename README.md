@@ -8,3 +8,4 @@ preliminar. Produce falsos negativos. NO debe usarse como
 
 # QUICK START
 Para acceder al visor 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HoracioMantilla/MAIC1125-HMJ/blob/main/1_Cuadernos/02_Inferencia.ipynb)
