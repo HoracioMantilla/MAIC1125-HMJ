@@ -2,14 +2,14 @@
 Detección de elementos de protección personal EPP (Proyectos de construcción)
 
 # ADVERTENCIA
-# Este modelo es una herramienta de apoyo solo para screening preliminar. 
-# Produce falsos negativos. NO debe usarse como único verificador en decisiones
-# de seguridad vital.
+Este modelo es una herramienta de apoyo solo para screening preliminar. 
+Produce falsos negativos. NO debe usarse como único verificador en decisiones
+de seguridad vital.
 
 # DESCRIPCIÓN DEL DATASET
- Cantidad de imagenes inciales 113 (distribución 70/20/10)
- Preproceso: Autorientación
- Augmentation
+Cantidad de imagenes inciales 113 (distribución 70/20/10)
+Preproceso: Autorientación
+Augmentation
   Resultados por ejemplo de entrenamiento: 3
   Recorte (Crop): Zoom mínimo 0%, Zoom máximo 20%
   Brillo (Brightness): Entre -15% y +15%
