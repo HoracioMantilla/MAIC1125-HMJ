@@ -7,3 +7,4 @@ preliminar. Produce falsos negativos. NO debe usarse como
 único verificador en decisiones de seguridad vital.’
 
 # QUICK START
+Para acceder al visor 
