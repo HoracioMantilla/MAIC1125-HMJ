@@ -20,7 +20,7 @@ Metricas:
   Recall 58.1%
 
 El dataset contiene un desbalance importante en cantidad de etiquetas sin casco (no helmet),
-aunque se dió prioridad a imagenes de proyectos en cosntrucción se tuvo que complementar con
+aunque se dió prioridad a imagenes de proyectos en construcción se tuvo que complementar con
 fotografías en otros ambientes con el fin de lograr algo de balance y mejorar el modelo
 
 # QUICK START
