@@ -13,6 +13,6 @@
 *El modelo entrenado tiene fines estrictamente académicos
 ## 4. Humano en el Bucle
 * **Proceso de revisión:** El usuario es el que finalmente debe tomar las desisiones finales al
-* emplear el modelo bajo su riesgo y responsabilidad
+  emplear el modelo bajo su propio riesgo y responsabilidad
 ## 5. Licencia
 * Tipo: MIT
